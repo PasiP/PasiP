@@ -1,6 +1,11 @@
 Languages I have used:
 
-C, C++, ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png | width=16 height=16)HTML5, Java, JavaScript, SQL
+C,
+C++,
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png | width=16 height=16) HTML5,
+Java,
+JavaScript,
+SQL
 
 Some of the technologies I have worked with:
 
