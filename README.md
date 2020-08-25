@@ -1,4 +1,8 @@
-### Hi there 👋
+Languages I have used:
+C, C++, HTML5, Java, JavaScript, SQL
+
+Some of the technologies I have worked with:
+Git, GitHub, JQuery, Linux, Node.js, React
 
 <!--
 **PasiP/PasiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
