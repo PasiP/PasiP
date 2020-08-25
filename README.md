@@ -3,9 +3,9 @@ Languages I have used:
 <img src="https://github.com/PasiP/PasiP/blob/master/c-logo.svg" alt="C++" width="20" height="20" /> C,
 <img src="https://github.com/PasiP/PasiP/blob/master/c-plusplus-logo.svg" alt="C++" width="20" height="20" /> C++,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="20" height="20" /> HTML5,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="20" height="20" /> Java,
+<img src="https://github.com/PasiP/PasiP/blob/master/java.svg" alt="Java" width="20" height="20" /> Java,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="20" height="20" /> JavaScript,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.pngSQL" alt="SQL" width="20" height="20" /> SQL
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="20" height="20" /> SQL
 
 Some of the technologies I have worked with:
 
