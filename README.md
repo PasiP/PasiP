@@ -1,7 +1,9 @@
 Languages I have used:
+
 C, C++, HTML5, Java, JavaScript, SQL
 
 Some of the technologies I have worked with:
+
 Git, GitHub, JQuery, Linux, Node.js, React
 
 <!--
