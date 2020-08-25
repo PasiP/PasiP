@@ -10,7 +10,7 @@ Languages I have used:
 Some of the technologies I have worked with:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="20" height="20" /> Android, 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="20" height="20" /> Bootstrap
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="20" height="20" /> Bootstrap,
 <img src="https://github.com/PasiP/PasiP/blob/master/git-logo.svg" alt="Git" width="20" height="20" /> Git,
 <img src="https://github.com/PasiP/PasiP/blob/master/github-logo.svg" alt="Github" width="20" height="20" /> GitHub,
 <img src="https://github.com/PasiP/PasiP/blob/master/jquery.svg" alt="JQuery" width="20" height="20" /> JQuery,
