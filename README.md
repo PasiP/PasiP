@@ -9,12 +9,12 @@ Languages I have used:
 
 Some of the technologies I have worked with:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="20" height="20" /> Android, <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="20" height="20" /> Git,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="Git" width="20" height="20" /> GitHub,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="Git" width="20" height="20" /> JQuery,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Git" width="20" height="20" /> Linux,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Git" width="20" height="20" /> Node.js,
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Git" width="20" height="20" /> React
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="20" height="20" /> Android, <img src="https://github.com/PasiP/PasiP/blob/master/git-logo.svg" alt="Git" width="20" height="20" /> Git,
+<img src="https://github.com/PasiP/PasiP/blob/master/github-logo.svg" alt="Github" width="20" height="20" /> GitHub,
+<img src="https://github.com/PasiP/PasiP/blob/master/jquery.svg" alt="JQuery" width="20" height="20" /> JQuery,
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20" /> Linux,
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="20" height="20" /> Node.js,
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REact" width="20" height="20" /> React
 
 
 
