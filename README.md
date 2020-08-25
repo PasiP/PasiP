@@ -15,6 +15,7 @@ Some of the technologies I have worked with:
 <img src="https://github.com/PasiP/PasiP/blob/master/github-logo.svg" alt="Github" width="20" height="20" /> GitHub,
 <img src="https://github.com/PasiP/PasiP/blob/master/jquery.svg" alt="JQuery" width="20" height="20" /> JQuery,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20" /> Linux,
+<img src="https://github.com/PasiP/PasiP/blob/master/mongodb-leaf.png" alt="MongoDB" width="20" height="20" /> MongoDB,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="20" height="20" /> Node.js,
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="20" height="20" /> PHP,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REact" width="20" height="20" /> React,
