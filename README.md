@@ -5,6 +5,7 @@ Languages I have used:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="20" height="20" /> HTML5,
 <img src="https://github.com/PasiP/PasiP/blob/master/java.svg" alt="Java" width="20" height="20" /> Java,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="20" height="20" /> JavaScript,
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="20" height="20" /> PHP,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="20" height="20" /> SQL
 
 Some of the technologies I have worked with:
@@ -17,7 +18,6 @@ Some of the technologies I have worked with:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20" /> Linux,
 <img src="https://github.com/PasiP/PasiP/blob/master/mongodb-leaf.png" alt="MongoDB" width="20" height="20" /> MongoDB,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="20" height="20" /> Node.js,
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="php" width="20" height="20" /> PHP,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REact" width="20" height="20" /> React,
 <img src="https://github.com/PasiP/PasiP/blob/master/subversion.svg" alt="svn" width="20" height="20" /> SVN
 
